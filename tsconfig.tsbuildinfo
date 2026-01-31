@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/gamecanvas.tsx","./src/components/gamehud.tsx","./src/context/walletcontext.tsx","./src/hooks/useswipecontrols.ts","./src/lib/constants.ts","./src/lib/leveldata.ts","./src/store/gamestore.ts","./src/types/game.ts"],"version":"5.9.3"}
