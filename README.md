@@ -10,12 +10,16 @@ Classic brick breaker game for Solana Mobile. Built with React, Vite, Capacitor,
 - **Solana wallet integration** — Phantom, Solflare
 - **Capacitor** — package as Android APK for Solana dApp Store
 
+Live: [solana-arkanoid.vercel.app](https://solana-arkanoid.vercel.app)
+
 ## Setup
 
 ```bash
 npm install
 npm run dev
 ```
+
+Set `VITE_APP_URL` to your production URL (default: https://solana-arkanoid.vercel.app) before deploying.
 
 ## Build for Android
 
